@@ -9,3 +9,7 @@ import { uuid } from 'micro-uuid-v4';
 
 console.log(uuid());
 ```
+
+## Demo
+
+![Terminal Demonstration](./demo.gif)
