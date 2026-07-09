@@ -1,6 +1,6 @@
 {
   "name": "micro-uuid-v4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptographically secure UUID v4 generator leveraging native Node.js crypto.",
   "type": "module",
   "main": "./dist/index.js",
